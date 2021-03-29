@@ -1,0 +1,23 @@
+{
+  "name": "fyyur",
+  "version": "1.0.0",
+  "description": "Fyyur -----",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanhillgemann/fyyur.git"
+  },
+  "keywords": [],
+  "author": "Alan Hillgemann <alan.hillgemann@outlook.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alanhillgemann/fyyur/issues"
+  },
+  "homepage": "https://github.com/alanhillgemann/fyyur#readme",
+  "dependencies": {
+    "bootstrap": "^3.4.1"
+  }
+}
