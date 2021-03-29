@@ -5,8 +5,8 @@
 * [About](#about)
 * [Languages](#languages)
 * [Dependencies](#dependencies)
-* [Installation] (#installation)
-* [Acceptance Criteria] (#acceptance-criteria)
+* [Installation](#installation)
+* [Acceptance Criteria](#acceptance-criteria)
 
 ## About
 
